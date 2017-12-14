@@ -25,7 +25,7 @@ import javax.ws.rs.core.MediaType;
  * @author ZLATAN
  */
 @Stateless
-@Path("proba.zlatanc")
+@Path("proba.zlata")
 public class ZlatanFacadeREST extends AbstractFacade<Zlatan> {
 
     @PersistenceContext(unitName = "CustomerDBPU")
